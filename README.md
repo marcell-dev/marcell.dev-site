@@ -1,7 +1,7 @@
 ## Geliştiriciler için Portfolyo Sitesi
 
 
-[image](https://github.com/user-attachments/assets/06173549-2320-4868-98e3-c3b4c08a467e)
+[image] (https://github.com/user-attachments/assets/06173549-2320-4868-98e3-c3b4c08a467e)
 
 
 > [Demo için tıklayın](https://Marcell.vercel.app/)
